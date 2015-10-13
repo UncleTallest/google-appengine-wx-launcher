@@ -21,3 +21,8 @@ may need to edit coverage.py to work in your environment.  This
 coverage.py script uses PyMox and the excellent code coverage script
 found here: http://code.google.com/p/pymox/
 http://nedbatchelder.com/code/modules/coverage.html
+
+For installing under Ubuntu 14.04 (and derivatives):
+```
+sudo apt-get install python-wxgtk2.8 python-wxglade
+```
